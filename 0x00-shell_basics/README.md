@@ -1,1 +1,1 @@
-linux command with shell script
+shell basic script
