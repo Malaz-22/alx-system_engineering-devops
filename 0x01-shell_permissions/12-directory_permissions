@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir 751 my_dir
+cd 751 my_dir
