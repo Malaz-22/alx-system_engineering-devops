@@ -1,2 +1,2 @@
 #!/bin/bash
-cd 751 my_dir
+ls 751 my_dir
