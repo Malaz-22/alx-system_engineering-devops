@@ -1,2 +1,2 @@
 #!/bin/bash
-rm . -type f -print *js| wc -l
+rm -R *.js
