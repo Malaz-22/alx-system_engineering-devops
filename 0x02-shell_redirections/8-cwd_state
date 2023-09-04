@@ -1,6 +1,2 @@
 #!/bin/bash
-echo 'drwxrwxr-x  2 julien julien 4096 Sep 20 18:18 .
-drwxrwxrwt 13 root   root   4096 Sep 20 18:18 ..
--rwxrw-r--  1 julien julien   36 Sep 20 18:18 8-cwd_state
--rw-rw-r--  1 betty  julien   23 Sep 20 14:25 hello
--rw-rw-r--  1 julien julien  926 Sep 20 17:52 iacta' > 'ls_cwd_content'
+ls -la > ls_cwd_content
